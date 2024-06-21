@@ -27,7 +27,7 @@ struct ContentView: View {
                 titleText = "Good choice, \(name) is my favorite season too!"
             }
             
-            //.font(.title2)
+            font(.title2)
            // .buttonStyle(.borderedProminent)
             //.tint(.orange)
             
